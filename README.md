@@ -1,7 +1,7 @@
 # MediLoRa
 This repository contains the firmware and Node-RED configuration for a Smart Health Monitoring System that utilizes LoRa-Dino modules for long-range, internet-independent communication between a patient-side transmitter and a nursing station receiver.
 
-**Project Overview**
+# **Project Overview**
 The system continuously monitors vital health parameters and transmits data wirelessly using LoRa-Dino. The receiver processes this data, triggers emergency alerts if abnormal readings are detected, and displays real-time values on a Node-RED dashboard for medical staff.
 
 **Features**
